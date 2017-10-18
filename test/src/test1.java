@@ -7,6 +7,7 @@ public class test1 {
 		System.out.println("핫픽스호");
 		System.out.println("핫픽스하하하하");
 		System.out.println("핫픽스호호호호호호");
+		System.out.println("Hello GitHub");
 	}
 
 }
